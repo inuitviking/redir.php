@@ -1,3 +1,4 @@
+# EVERYTHING IS MOVED TO GITLAB
 # redir.php
 Firefox has a tendency to block mixed content, so this script was created to bypass that.
 
